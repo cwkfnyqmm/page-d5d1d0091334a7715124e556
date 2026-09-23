@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linkelessclash.com/sitemap.xml
